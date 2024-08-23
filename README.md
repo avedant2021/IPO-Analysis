@@ -1,4 +1,4 @@
-# IPO_bubble
+# IPO_Analysis
 scrape, clean and model IPO data with supervised ML
 
 ## Project description
